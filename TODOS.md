@@ -577,6 +577,7 @@ A live end-to-end run is required before adding an engine: Gemini has never been
 **Effort:** S
 **Priority:** P2
 **Depends on:** None
+**Completed:** 2026-10-11. The editor logs the parser's message with `console.error('[webhooks] body format is not valid JSON:', ...)` and `error` is now a boolean.
 
 ## Release
 
